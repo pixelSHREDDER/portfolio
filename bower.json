@@ -7,6 +7,14 @@
   "authors": [
     "Mike DeVine"
   ],
+  "indexPath": "dv.html",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-cssmin": "^2.0.0",
+    "grunt-contrib-uglify": "^2.2.0",
+    "grunt-contrib-sass": "^2.0.0"
+  },
   "license": "MIT",
   "private": true,
   "ignore": [
@@ -15,12 +23,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {},
-  "devDependencies": {
-    "grunt": "~1.0.1",
-    "grunt-contrib-sass": "^1.0.0",
-    "grunt-contrib-uglify": "^2.2.0",
-    "grunt-contrib-cssmin": "^2.0.0"
-  }
+  ]
 }

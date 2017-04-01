@@ -10,3 +10,4 @@ robots.txt
 bower_components
 */.DS_Store
 *.map
+/vendor
