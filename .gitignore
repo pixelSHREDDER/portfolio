@@ -10,4 +10,5 @@ robots.txt
 bower_components
 */.DS_Store
 *.map
+*.min.css
 /vendor
